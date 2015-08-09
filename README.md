@@ -1,2 +1,2 @@
 # APokerAI
-Yes, this another Artificial Intelligence to play Poker. :) 
+Yes, this is another Artificial Intelligence to play Poker. :) 
